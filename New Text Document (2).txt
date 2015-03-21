@@ -1,0 +1,19 @@
+github -> account------->login
+gcloud download(python) util
+download gcloud util
+download github client/shell
+create a repo on github
+clone the repo
+console.devolopers.google.com/project(create 0
+source code
+connect github
+
+fb link
+github.com/new
+repo name..aparoksha-san
+(click public,,tick initialize)  -------------------->rightside down download(clone desktop)
+open developer.google.com
+console.devolopers.google.com/project(create 0
+project-->open
+left lo soure code----->click--------->browse--------->getstarted
+---------->github--------->install----------->autentisise app------>projectlist lo aparoksha------->browse
